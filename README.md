@@ -1,6 +1,6 @@
 # ucrDev
 
-<h1 align="center">Hi 👋, I'm Freddy Sánchez Zamora /h1>
+<h1 align="center">Hi 👋, I'm Freddy Sánchez Zamora </h1>
 <h3 align="center">Student</h3>
 
 <br>
